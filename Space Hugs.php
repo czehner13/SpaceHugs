@@ -1,7 +1,7 @@
 <?php
-$1 = $_POST[1]
-$2 = $_POST[2]
-$3 = $_POST[3]
-$4 = $_POST[4]
-$5 = $_POST[5]
+$Astronaut1 = $_POST[Astronaut1]
+$Astronaut2 = $_POST[Astronaut2]
+$Astronaut3 = $_POST[Astronaut3]
+$Astronaut4 = $_POST[Astronaut4]
+$Astronaut5 = $_POST[Astronaut5]
 ?>
