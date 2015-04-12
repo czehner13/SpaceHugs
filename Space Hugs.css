@@ -1,12 +1,12 @@
 <style>
-#header {
+.header {
   background-color:rgb(0,0,175);
   color:white;
   text-align:center;
   padding:5px;
 }
 
-#nav {
+.nav {
   background-color:rgb(0,0,0);
   color:white;
   font-family:serif;
